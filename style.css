@@ -1,0 +1,31 @@
+body {
+ background-color: #d5abb2;
+}
+.text-section {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.about-section {
+    background-color: #3a1c4e;
+}
+
+.gallery-section .gallery-item {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+footer {
+    width: 100%;
+    font-size: 14px;
+    color: #000000;
+}
+.custom-header {
+    background-color: #c79cb0;
+}
+
